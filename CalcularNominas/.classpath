@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Nomina/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Flavio/Downloads/poi-bin-3.16-20170419.tar/poi-bin-3.16-20170419/poi-3.16/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Flavio/Downloads/poi-bin-3.16-20170419.tar/poi-bin-3.16-20170419/poi-3.16/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Flavio/Downloads/poi-bin-3.16-20170419.tar/poi-bin-3.16-20170419/poi-3.16/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Flavio/Downloads/poi-bin-3.16-20170419.tar/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Flavio/Downloads/poi-bin-3.16-20170419.tar/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Flavio/Downloads/poi-bin-3.16-20170419.tar/poi-bin-3.16-20170419/poi-3.16/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Flavio/Downloads/itextpdf-5.4.1-sources.jar/itextpdf-5.4.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Flavio/Downloads/itextpdf-5.4.1.jar/itextpdf-5.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
